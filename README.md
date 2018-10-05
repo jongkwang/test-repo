@@ -13,3 +13,5 @@
 - 김종광
 
 ## 토큰 이코노미
+
+<img width="849" alt="2018-09-21 10 28 57" src="https://user-images.githubusercontent.com/897510/46519479-67bde700-c8b3-11e8-8d1a-19d5df00523d.png">
